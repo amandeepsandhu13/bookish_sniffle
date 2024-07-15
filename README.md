@@ -22,8 +22,8 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 ## App Links
-Git repo Link : https://github.com/amandeepsandhu13/bookish_sniffleLinks to an external site.
-Video Link: https://drive.google.com/file/d/1Fl5cixdTgown9yuOVor8EQTPEqoVYQR3/viewLinks to an external site.
+Git repo Link : https://github.com/amandeepsandhu13/bookish_sniffle
+Video Link: [https://drive.google.com/file/d/1Fl5cixdTgown9yuOVor8EQTPEqoVYQR3/view](https://drive.google.com/file/d/1Fl5cixdTgown9yuOVor8EQTPEqoVYQR3/view)
 
 ## To test your APIs using tools like Insomnia or Postman, here are the URLs :
 
