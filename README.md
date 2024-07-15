@@ -52,5 +52,5 @@ PUT update a tag by ID: http://localhost:3001/api/tags/:id
 DELETE delete a tag by ID: http://localhost:3001/api/tags/:id
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
  
